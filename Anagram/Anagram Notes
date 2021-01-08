@@ -1,0 +1,9 @@
+1. Generate a list of words
+2. Take in the name for the Anagram
+3. Number of letters in the name
+4. Match the number of letters in the name to a combination
+ of words in the word list
+5. Create a new list of number matched words
+6. Display that new List and the Anagram name
+7. Now I just need to remove duplicates
+
